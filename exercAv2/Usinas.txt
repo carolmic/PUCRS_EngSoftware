@@ -1,0 +1,5 @@
+
+2;Cambu;60.0;3.0;carvao
+1;Itaipu;70.0;4.0;hidrica
+2;Vale;50.0;3.0;petroleo
+1;Osorio;50.0;3.0;eolica
