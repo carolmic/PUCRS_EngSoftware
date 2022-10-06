@@ -37,8 +37,7 @@ public class Conglomerado {
         if (isEmpty()) {
             return null;
         }
-        return usinas;
-		//return (ArrayList<Usina>)usinas.clone();
+        return (ArrayList<Usina>)usinas.clone();
 	}
 
 	public double consultaPreco(String nome) {
